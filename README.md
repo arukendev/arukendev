@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+私はかなり強いです
+
 <!--
 **arukendev/arukendev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
